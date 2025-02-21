@@ -1,0 +1,16 @@
+NAME,CHEMICAL SYMBOL/S,1o or 2o,Criteria Pollutant (Y/N),SOURCES/CAUSES,PROBLEMS/CONCERNS,SOLUTIONS
+"Ozone
+(Tropospheric)",O₃,2°,Y,Formed by NOx and VOCs reacting in sunlight; worsened by heat (e.g. urban areas),"Lung irritation, asthma attacks, damages crops like soybeans","Reduce NOx.VOC emissions with cleaner fuels, urban tree planting"
+Nitrogen Oxides,"NOₓ (NO, NO₂)",1°,Y,"Vehicle exhaust, power plants, industrial burning of fossil fuels","Acid rain (harms ecosystems), smog, chronic bronchitis","Catalytic converters, stricter factory emission limits"
+Sulfur Dioxide,SO₂,1°,Y,"Coal-fired power plants, oil refining, volcanic eruptions","Acid rain (damages forests/lakes), aggravates asthma","Flue gas desulfurization (scrubbers), switch to wind/solar energy"
+Lead,Pb,2°,Y,"Historically from gasoline, now paint, batteries, smelting","Brain damage in kids, kidneys, issues, wildlife poisoning","Leaded gas ban, safe disposal of batteries/iant"
+Carbon Monoxide,CO,1°,Y,"Incomplete combustion (cars, wildfires, heaters)","Binds to hemoglobin, causing dizziness, heart strain","Improved engine efficiency, CO detectors in homes"
+Carbon Dioxide,CO₂,1°,N,"Fossil fuel burning (coal, oil, gas), deforestation, cement production","Global warming, ocean acidification, extreme weather","Carbon taxes, reforestation, electric vehicles"
+VOCs (Volatile Organic Compounds),"Various (e.g., C₆H₆)",1°,N,"Paints, gasoline vapors, chemical manufacturing","Smog, carcinogenic (e.g. benzene causes leukemia)","Use water-based paints, vapor recovery at gas stations"
+Methane,CH₄,1°,N,"Livestock digestion, rice paddies, landfills, natural gas leaks","25x more potent than CO2 as greenhouse gas, contributes to haze","Methane digesters on farms, leak detection in pipelines"
+NMHC (Nonmethane hydrocarbons),Various,1°,N,"Gasoline combustion, oil refining, solvent use","Precursor to ozone/smog, some are toxic (e.g. toluene)","Low-emission fuels, industrial ventilation systems"
+PM (Particulate Matter),PM,1°/2°,Y,"Construction dust, diesel exhaust, wildfires; secondary from SO2/NOx","Lung cancer, heart disease, reduced visibility","Electrostatic precipitators, ban on open burning"
+PANs (Peroxyacyl nitrates),C2H3NO5,2°,N,Photochemical reactions of VOCs + NOx in polluted air,"Eye irritation, crop yield loss (e.g. tomatoes), toxic to plants","Control VOC/NOx sources, air quality monitoring"
+"CFCs
+(Chlorofluoro carbons)",CF₂Cl₂,1°,N,"Old refrigerators, AC units, aerosol cans (pre-1990s)","Destroys stratospheric ozone, warms climate (1000x CO2)","Mercury-specific filters, phrase out coal plants"
+Mercury,Hg,1°,N,"Coal combustion, gold mining, waste incineration","Brain/nerve damage (e.g. Minamata disease), fish contamination","Mercury-specific filters, phase-out coal plants"
